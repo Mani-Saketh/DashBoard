@@ -2,9 +2,9 @@
 <h2>Introduction</h2>
 This is a static website which is nothing but the dashboard of a student(Mani Saketh). This is done using HTML and CSS where I used cards, different kinds of tags such as img tag, div tag, heading tags, etc, buttons, marquee, etc, and classes from HTML and many CSS properties like postion, text-align, margin, background-color, color, etc. I used both INTERNAL STYLING and EXTERNAL STYLING to built this website. 
 <h2>Steps to run this Website</h2>
-Download all the files including images provided in my repository, import all those things into your VS Code under a single file, index.html is the first page of this website. Open it using the live server and you can finally view the complete website in your default web browser.<br>
-<b>Click on the link given below to view the webpage - <b>
-
+Download all the files including images provided in my repository, import all those things into your VS Code under a single file, index.html is the first page of this website. Open it using the live server and you can finally view the complete website in your default web browser.<br><br>
+<b>Click on the link given below to view the webpage - <b><br>
+https://mani-saketh.github.io/DashBoard/
 <h2>What's inside the Website?</h2>
 The main contents of this DASHBOARD website are student's courses, timetable, taskbar, upcoming lessons, homwwork progress,leaderboard, some graphical figures which show the performance and latest exam details, and a navigational bar which contains the name of the person.
 <h2>What happens in the website when I click anything?</h2>
